@@ -18,4 +18,4 @@ Scraping google maps
 - Phantomjs
 
 #Utility
-Scraping data company gmaps with Phantomjs http://phantomjs.org/
+- Scraping data company gmaps with Phantomjs http://phantomjs.org/
