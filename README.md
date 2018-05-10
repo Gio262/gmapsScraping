@@ -16,3 +16,6 @@ Scraping google maps
 - from progress.bar import Bar
 - import sqlite3.dbapi2 as sqlite3
 - Phantomjs
+
+#Utility
+Scraping data company gmaps with Phantomjs http://phantomjs.org/
